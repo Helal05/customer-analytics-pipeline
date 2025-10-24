@@ -1,6 +1,6 @@
 #  Customer Analytics Pipeline
 
-This project implements a **5-stage automated analytics pipeline** using Python and Docker to process customer transaction data (Online Retail dataset).  
+This project implements a **4-stage automated analytics pipeline** using Python and Docker to process customer transaction data (Online Retail dataset).  
 All scripts are chained to run sequentially within a container to ensure full reproducibility.
 
 ---
