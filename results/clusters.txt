@@ -1,0 +1,6 @@
+--- K-Means Cluster Sample Counts (k=4) ---
+Cluster_Label
+0    392702
+1         2
+2        23
+3         5

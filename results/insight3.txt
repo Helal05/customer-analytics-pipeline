@@ -1,0 +1,2 @@
+--- Average Scaled TotalPrice ---
+Average Scaled TotalPrice: 0.0000

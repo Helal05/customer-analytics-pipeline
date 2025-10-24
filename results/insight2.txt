@@ -1,0 +1,6 @@
+--- Transaction Distribution by Price Bin ---
+Price_Bin
+High         103462
+Low           98884
+Medium        97492
+Very High     92894

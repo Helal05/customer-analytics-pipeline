@@ -1,0 +1,7 @@
+--- Top 5 Countries by Number of Transactions ---
+Country
+United Kingdom    349227
+Germany             9027
+France              8327
+EIRE                7228
+Spain               2480
